@@ -1,0 +1,4 @@
+great!!!
+you studied well,
+collect your marksheet from
+/root/marksheet.txt
